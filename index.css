@@ -1,0 +1,25 @@
+.retail-athletics-timeline {
+  margin: 3rem auto; }
+  .retail-athletics-timeline .img {
+    margin: 1rem;
+    max-width: 500px; }
+  .retail-athletics-timeline .body {
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1070px;
+    margin-left: auto;
+    margin-right: auto; }
+  .retail-athletics-timeline .title {
+    max-width: 1070px;
+    margin-left: auto;
+    margin-right: auto; }
+    .retail-athletics-timeline .title__title {
+      font-family: "ff-meta-serif-web-pro", Georgia, serif;
+      font-size: 2.25rem;
+      line-height: 1.1;
+      margin: 1.5rem 1rem 1rem 1rem;
+      font-size: 3rem;
+      line-height: 1.3;
+      margin: 1.5rem 1rem 1.5rem 1rem;
+      text-align: center; }
